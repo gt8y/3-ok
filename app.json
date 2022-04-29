@@ -1,6 +1,6 @@
 {
-  "name": "Xray快速部署",
-  "description": "Deploy Xray Vless to Heroku.",
+  "name": "3",
+  "description": "3.",
   "keywords": ["V2ray", "Xray"],
   "env": {
     "ProxySite": {
